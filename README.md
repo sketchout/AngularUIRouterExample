@@ -2,8 +2,9 @@
 
 This example is updated from original with new version of bootstrap 3.3.6 
 
-# And original explain to follow the example is below :
-Original Example is on http://plnkr.co/edit/u18KQc?p=preview.
+# Original Example is 
+on http://plnkr.co/edit/u18KQc?p=preview.
+And original explain to follow the example is below :
 
 AngularUI Router is a routing framework for AngularJS, which allows you to organize the parts of your interface into a state machine. Unlike the $route service in Angular core, which is organized around URL routes, UI-Router is organized around states, which may optionally have routes, as well as other behavior, attached.
 
@@ -35,4 +36,5 @@ The majority of UI-Router's power is in its ability to nest states & views.
 
 (6) See this quick start example in action.
 
-# Go to Quick Start Plunker for Nested States & Views
+Go to Quick Start Plunker for Nested States & Views
+http://plnkr.co/edit/u18KQc?p=preview
